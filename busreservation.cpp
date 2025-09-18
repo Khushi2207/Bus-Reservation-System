@@ -11,7 +11,6 @@ class bus
 private:
     string b_no, b_name, d_name;
     int b_seats;
-
 public:
     void menu();
     void new_bus();
